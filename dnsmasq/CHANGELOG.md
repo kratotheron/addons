@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.6.1
+
+- Added dns-forward-max option
+
 ## 1.6.0
 
 - Update to Alpine 3.17
