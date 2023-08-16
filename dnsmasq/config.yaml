@@ -44,4 +44,5 @@ schema:
     - name: str
       target: str
   log_queries: bool
+  dns_forward_max: int
 startup: system
